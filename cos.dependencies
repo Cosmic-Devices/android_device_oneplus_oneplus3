@@ -11,10 +11,9 @@
     "branch"     : "oreo-mr1"
   },
   {
-    "repository" : "TheMuppets/proprietary_vendor_oneplus",
+    "repository" : "android_vendor_oneplus",
     "target_path": "vendor/oneplus",
-    "remote"     : "github",
-    "branch"     : "lineage-15.1"
+    "branch"     : "oreo-mr1"
   },
   {
     "repository" : "LineageOS/android_hardware_cyanogen",
